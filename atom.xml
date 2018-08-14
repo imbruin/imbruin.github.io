@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Bruin</title>
+  
+  <subtitle>胆小认生，不易相处</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://imbruin.com/"/>
+  <updated>2018-08-14T02:28:14.405Z</updated>
+  <id>http://imbruin.com/</id>
+  
+  <author>
+    <name>Bruin</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://imbruin.com/2017/11/28/hello-world/"/>
+    <id>http://imbruin.com/2017/11/28/hello-world/</id>
+    <published>2017-11-28T10:40:00.000Z</published>
+    <updated>2018-08-14T02:28:14.405Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/assets/blogImg/itcrowd.jpg" alt=""></p><p>感谢Andy的推荐和帮助、上官仙女的UI设计、各位大神博客的技术支持。这个Hexo博客终于搭建起来了。</p><p>折腾了两天多，在github page上看到自己的博客加载下来时，突然有种错综复杂的恍惚感。是的，它不是qq空间，不是新浪博客，不是豆瓣小站，也不是贴吧。它更像是属于自己的一块小小的领地，因而我满足于这种归属感。我愿在上面安静劳作。</p><p>一个农民，通过自身努力终于分到了一块地，不再需要在地主的土地上创造流量价值时，于是翻身作主的他可以宣告说：Hello World。当然这个农民确切来说是个码农。</p><p>感谢Litten提供的Yilia主题。我很喜欢这种色调。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;/assets/blogImg/itcrowd.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;感谢Andy的推荐和帮助、上官仙女的UI设计、各位大神博客的技术支持。这个Hexo博客终于搭建起来了。&lt;/p&gt;
+&lt;p&gt;折腾了两天多，在github page上看到自己
+      
+    
+    </summary>
+    
+    
+      <category term="杂谈" scheme="http://imbruin.com/tags/%E6%9D%82%E8%B0%88/"/>
+    
+  </entry>
+  
+</feed>
